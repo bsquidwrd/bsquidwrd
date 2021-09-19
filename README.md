@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👋 Hi, I'm [bsquidwrd](@bsquidwrd)
+- 👀 I’m interested in programming, api's and how to automate as much as possible
+- 📫 You can reach me on [Twitter](https://twitter.com/bsquidwrd)!
+- 😄 Pronouns: he/him/they/them
+
 <!--
 **bsquidwrd/bsquidwrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
