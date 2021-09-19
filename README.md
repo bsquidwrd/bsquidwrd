@@ -1,9 +1,11 @@
-### Hi there 👋
-
-- 👋 Hi, I'm [bsquidwrd](@bsquidwrd)
-- 👀 I’m interested in programming, api's and how to automate as much as possible
-- 📫 You can reach me on [Twitter](https://twitter.com/bsquidwrd)!
+### Hi there 👋, I'm bsquidwrd
 - 😄 Pronouns: he/him/they/them
+- 📫 You can reach me on [Twitter](https://twitter.com/bsquidwrd)!
+- 📖 I currently work full time as a Database Administrator and am going to school for a Bachelors in Software Development, with an emphases on C#
+- 👀 I’m interested in:
+  - programming
+  - api's
+  - automating as much as possible
 
 <!--
 **bsquidwrd/bsquidwrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
