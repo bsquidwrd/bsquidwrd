@@ -7,6 +7,9 @@
   - api's
   - automating as much as possible
 
+- Notes:
+  - Any comments/views/statements I make are in no way a reflection of my employer
+
 <!--
 **bsquidwrd/bsquidwrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
