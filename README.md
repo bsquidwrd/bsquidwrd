@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm bsquidwrd (or Squid for short)
 - 😄 Pronouns: he/him/they/them
 - 📫 You can reach me on [Twitter](https://twitter.com/bsquidwrd)!
-- 📖 I currently work full time as a Database Administrator and am going to school for a Bachelors in Software Development, with an emphases on C#
+- 📖 I currently work full time as a Database Administrator and am going to school for a Bachelors in Software Development, with an emphasis on C#
 - 👀 I’m interested in:
   - programming
   - api's
