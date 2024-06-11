@@ -9,7 +9,7 @@
   - automating as much as possible
 
 - Notes:
-  - Any comments/views/statements I make are in no way a reflection of my employer
+  - The postings on this site are my own and do not necessarily reflect the views of Aeries Software.
 
 <div align="center" style="display: inline_block">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bsquidwrd&show_icons=true&theme=nightowl">
