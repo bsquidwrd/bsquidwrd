@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm bsquidwrd
 - You can call me Squid for short
 - 😄 Pronouns: [he/him/they/them](https://en.pronouns.page/@bsquidwrd)
-- 📫 You can reach me on [Twitter](https://twitter.com/bsquidwrd)! (Please honor [nohello](https://nohello.net/) if you message me)
+- 📫 You can reach me on [Bluesky](https://bsky.app/profile/bsquidwrd.com) or [Twitter](https://twitter.com/bsquidwrd)! (Please honor [nohello](https://nohello.net/) if you message me)
 - 📖 I currently work full time as an Integration Engineer and am going to school for a Bachelors in Software Engineering
 - 👀 I’m interested in:
   - programming
