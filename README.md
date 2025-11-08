@@ -1,17 +1,22 @@
-### Hi there 👋, I'm bsquidwrd
+# Hi there 👋, I'm bsquidwrd
+
 - You can call me Squid for short
 - 😄 Pronouns: [he/him/they/them](https://en.pronouns.page/@bsquidwrd)
-- 📫 All of my links can be found on [bsquidwrd.link](https://bsquidwrd.link) . If you reach out to me, please honor [nohello](https://nohello.net/) 
-- 📖 I currently work full time as an Integration Engineer and am going to school for a Bachelors in Software Engineering
-- 👀 I’m interested in:
-  - programming
-  - api's
-  - automating as much as possible
+- 📫 All of my links can be found on [bsquidwrd.link](https://bsquidwrd.link). If you reach out to me, please honor [nohello](https://nohello.net/)
+- 📖 I currently work full time as an Software Integration Developer and hold a Bachelors in Software Engineering
 
-- Notes:
-  - The postings on this site are my own and do not necessarily reflect the views of Aeries Software.
+## 👀 I'm interested in:
+- Programming
+- API's
+- Automating as much as possible
 
-<div align="center" style="display: inline_block">
+## 📊 GitHub Stats
+
+<div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bsquidwrd&show_icons=true&theme=nightowl">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsquidwrd&layout=donut&theme=nightowl&hide=css,html,applescript">
 </div>
+
+---
+
+*Note: The postings on this site are my own and do not necessarily reflect the views of Aeries Software.*
