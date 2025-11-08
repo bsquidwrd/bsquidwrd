@@ -19,4 +19,4 @@
 
 ---
 
-*Note: My postings on this site are my own and do not necessarily reflect the views of Aeries Software.*
+*Note: The postings on this site are my own and do not necessarily reflect the views of Aeries Software.*
