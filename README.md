@@ -10,13 +10,6 @@
 - API's
 - Automating as much as possible
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bsquidwrd&show_icons=true&theme=nightowl">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsquidwrd&layout=donut&theme=nightowl&hide=css,html,applescript">
-</div>
-
 ---
 
 *Note: The postings on this site are my own and do not necessarily reflect the views of my employer.*
